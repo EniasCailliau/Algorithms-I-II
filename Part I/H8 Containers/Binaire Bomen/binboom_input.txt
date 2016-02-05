@@ -1,0 +1,13 @@
+10
+gedachten 0 0
+diepst 0 9
+ben 6 5
+van 0 0
+'t 10 2
+ik 0 0
+een 0 0
+in 0 0
+mijn 4 1
+god 7 8
+
+

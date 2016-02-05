@@ -1,0 +1,8 @@
+trein.fig : personen.txt 
+smile.exe : input.txt trein.sd smile.cpp trein.fig trein.tex verslag.pdf 
+verslag.pdf : input.txt trein.eps trein.tex 
+trein.sd : personen.txt 
+trein.tex : input.txt trein.sd smile.cpp 
+verslag.tex : trein.tex 
+
+

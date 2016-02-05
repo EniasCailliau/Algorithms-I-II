@@ -1,0 +1,25 @@
+23
+waterding 0 20
+waterke 11 3
+'t 4 5
+al 0 7
+op 6 0
+schrijven 0 0
+flink 8 9
+gere 0 0
+koppeke 0 10
+uw 0 0
+toch 12 0
+ik 13 16
+wat 14 15
+kabotseken 0 0
+aan 0 0
+zie 0 0
+gaan! 18 2
+zwarte 1 19
+'t 23 0
+winkelende 21 22
+O 0 0
+krinkelende 0 0
+met 0 0
+

@@ -1,0 +1,12 @@
+personen.txt	08:00
+trein.eps		13:09
+smile.cpp		09:53
+verslag.pdf		07:13
+verslag.tex		02:06
+input.txt		08:31
+trein.sd		10:44
+
+
+
+
+
